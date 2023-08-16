@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trintan
 - 👀 I’m interested in Python Automotive Projects
 - 🌱 I’m currently learning Masters in Automotive Software Engineering
-- 💞️ I’m looking to collaborate on Automotive Projects
+- 💞️ I’m looking for Position in Automotive Projects
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/daniel-vazhappilly-abraham-1830201bb/
 
 <!---
