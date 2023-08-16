@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trintan
+- 👋 Hi, I’m Daniel Vazhappilly Abraham
 - 👀 I’m interested in Python Automotive Projects
 - 🌱 I’m currently learning Masters in Automotive Software Engineering
 - 💞️ I’m looking for Position in Automotive Projects
