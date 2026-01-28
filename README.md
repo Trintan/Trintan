@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Vazhappilly Abraham
-- 👀 I’m interested in Python Automotive Projects and Data Analysis Projects
+- 👀 I’m interested in Software Test and Development of systems especially in the industry of Aerospace, Drone, Automotive and Robotics
 - 🌱 I’m currently learning Masters in Automotive Software Engineering
 - 💞️ I’m looking for Position in Automotive Projects
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/daniel-vazhappilly-abraham-1830201bb/
